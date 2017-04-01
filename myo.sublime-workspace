@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getNum",
+				"getNumTutored"
+			],
+			[
+				"finish",
+				"finishTutoring"
+			],
+			[
+				"displa",
+				"displayFreeTutors"
+			],
+			[
+				"Tuto",
+				"tutors"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "custom-gestures/Myo-Gesture-master/Myo-Gesture-master/gesturedevicelistener.h",
+			"settings":
+			{
+				"buffer_size": 15695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myo-sdk-win-0.9.0/Myo-Gesture-master/bin/Debug/processed/DTWModel.txt",
+			"settings":
+			{
+				"buffer_size": 20910,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 274.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Willy/Desktop/hackathon/myo-sdk-win-0.9.0/Myo-Gesture-master/bin/Debug/DTWModel.txt",
+		"/C/Users/Willy/Desktop/hackathon/myo-sdk-win-0.9.0/Myo-Gesture-master/gesturemyoexample.cpp",
+		"/C/Users/Willy/Desktop/hackathon/myo-sdk-win-0.9.0/Myo-Gesture-master/bin/Debug/processed/GestureTrainingDataLabels.txt",
+		"/C/Users/Willy/Desktop/hackathon/myo-sdk-win-0.9.0/Myo-Gesture-master/bin/Debug/processed/DTWModel.txt",
+		"/C/Users/Willy/Desktop/hackathon/myo-sdk-win-0.9.0/samples/emg-data-sample.cpp",
+		"/C/Users/Willy/Desktop/hackathon/myo-sdk-win-0.9.0/samples/hello-myo.cpp",
+		"/C/Users/Willy/Desktop/hackathon/custom-gestures/Myo-Gesture-master/Myo-Gesture-master/gesturedevicelistener.h",
+		"/C/Users/Willy/Desktop/hackathon/myo-test.js",
+		"/C/Users/Willy/Projects/Hack Camp/style.css",
+		"/C/Users/Willy/Projects/Hack Camp/index.html",
+		"/C/Users/Willy/Projects/MEAN/app.js",
+		"/C/Users/Willy/learnyounode/json-api-client.js",
+		"/C/Users/Willy/learnyounode/http-uppercaser.js",
+		"/C/Users/Willy/learnyounode/http-collect1.js",
+		"/C/Users/Willy/learnyounode/http-collect2.js",
+		"/C/Users/Willy/learntwilio/twilio-test.js",
+		"/C/Users/Willy/learnyounode/http-json-api-server.js",
+		"/C/Users/Willy/learntwilio/express-post.js",
+		"/C/Users/Willy/learnyounode/juggling-async.js",
+		"/C/Users/Willy/learnyounode/http-file-server.js",
+		"/C/Users/Willy/learnyounode/http-client.js",
+		"/C/Users/Willy/learnyounode/async-io.js",
+		"/C/Users/Willy/learnyounode/tcp-time-server.js",
+		"/C/Users/Willy/learnyounode/filter-module.js",
+		"/C/Users/Willy/learnyounode/make-it-modular.js",
+		"/C/Users/Willy/learnyounode/filtered-ls.js",
+		"/C/Users/Willy/learnyounode/helloworld.js",
+		"/C/Users/Willy/learnyounode/first-io.js",
+		"/C/Users/Willy/learnyounode/babysteps.js",
+		"/C/Users/Willy/javascripting/scope.js",
+		"/C/Users/Willy/javascripting/function-arguments.js",
+		"/C/Users/Willy/javascripting/functions.js",
+		"/C/Users/Willy/javascripting/object-properties.js",
+		"/C/Users/Willy/javascripting/objects.js",
+		"/C/Users/Willy/javascripting/looping-through-arrays.js",
+		"/C/Users/Willy/javascripting/accessing-array-values.js",
+		"/C/Users/Willy/javascripting/array-filtering.js",
+		"/C/Users/Willy/javascripting/arrays.js",
+		"/C/Users/Willy/javascripting/for-loop.js",
+		"/C/Users/Willy/javascripting/if-statement.js",
+		"/C/Users/Willy/javascripting/number-to-string.js",
+		"/C/Users/Willy/javascripting/rounding-numbers.js",
+		"/C/Users/Willy/javascripting/numbers.js",
+		"/C/Users/Willy/javascripting/revising-strings.js",
+		"/C/Users/Willy/javascripting/string-length.js",
+		"/C/Users/Willy/javascripting/strings.js",
+		"/C/Users/Willy/javascripting/variable.js",
+		"/C/Users/Willy/javascripting/introduction.js",
+		"/C/Users/Willy/Desktop/LAB9/cameron sux/cameron.cpp",
+		"/C/Users/Willy/Downloads/Tina's site/CafeWebsite_Coding_FinalProject/CafeWebsite_Coding_FinalProject/root/index.html",
+		"/C/Users/Willy/Desktop/Assembly Tutorial/Project32_VS2015/AddTwo.asm",
+		"/C/Users/Willy/Desktop/Assembly Tutorial/Project32_VS2015/AddSum.asm",
+		"/C/Users/Willy/Desktop/LAB9/Lab9e/Lab9e.cpp",
+		"/C/Users/Willy/Desktop/LAB9/Lab9f/lab9f.cpp",
+		"/C/Users/Willy/Desktop/LAB9/Lab9c/Lab9c.cpp",
+		"/C/Users/Willy/Desktop/LAB9/Lab9b/Lab9.cpp",
+		"/C/Users/Willy/Desktop/LAB9/Lab9d/Lab9d.cpp",
+		"/C/Users/Willy/Desktop/LAB9/LAB9.CPP",
+		"/C/Users/Willy/Desktop/LAB9/lol.cpp",
+		"/C/Users/Willy/Desktop/JAVA/FINAL/Scheduler.java",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/TutorList.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/oldMain.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/StudentQueue.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/StudentQueue.h",
+		"/C/Users/Willy/Desktop/JAVA/FINAL/Room.java",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/stats.dat",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/Tutor.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/Student.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/Person.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/TutorQueue.pptx",
+		"/C/Users/Willy/Desktop/LAB3/Stack.h",
+		"/C/Users/Willy/Desktop/LAB3/Stack.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 18/test.cpp",
+		"/C/Users/Willy/Desktop/LAB3/Lab3.cpp",
+		"/C/Users/Willy/Desktop/LAB3/Array.h",
+		"/C/Users/Willy/Desktop/LAB3/Array.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 13/PC13.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 18/Stack.h",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 17/Linked.h",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 6/PC06.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 7/PC07.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 8/PC08.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 9/PC09.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 11/PC11.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 12/PC1214.cpp",
+		"/G/LAPTOP BACKUP/School/Semester IIII FA15/COMSCI 165/Chapter 12/PC1204.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/oldMain - Copy.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Completed/TutorList.cpp",
+		"/C/Users/Willy/AppData/Roaming/Sublime Text 3/Packages/User/test1.sublime-build",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Person.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Student.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Person.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Student.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Tutor.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/StudentQueue.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/StudentQueue.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Tutor.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/oldMain.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/TutorList.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/TutorList.h",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/main.cpp",
+		"/G/LAPTOP BACKUP/School/Semester VI FA16/COMSC200/Week 5/Lab5a - Delivery Package Inheritance Hierarchy/Lab5a.cpp",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/stats.dat",
+		"/C/Users/Willy/AppData/Roaming/Sublime Text 3/Packages/User/SublimeInput.sublime-settings",
+		"/C/Users/Willy/Desktop/CS Midterm/PROJECT/Anise.cpp"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"datalabelsfile",
+			"'",
+			"room",
+			"unpackM",
+			"//cout << \"Number of Students Tutored: \" << classTe",
+			"//cout << \"Number of Students Tutored: \" << numTutored << endl;",
+			"cout << \"Updated that ",
+			"cout << \"\\n WR",
+			"cout << \"Aft",
+			"cout << \"Num",
+			"cout << \"Read \" << ",
+			"\"Updated that ",
+			"cout << \"After",
+			"cout << \"\\n WR",
+			"cout << \"Num",
+			"cout",
+			"has tut",
+			"read",
+			"3L",
+			"2L",
+			"1L",
+			"finishtutoring",
+			"math193",
+			"math",
+			"math 193",
+			"class data",
+			"finish",
+			"displayque",
+			"display",
+			"displayqueue",
+			"finishtutoring",
+			"read(",
+			"seekg",
+			"seekp( ",
+			"seekp",
+			"classTest192",
+			"numtutored",
+			"bytepos",
+			"classData",
+			"classdata",
+			"finish",
+			".close",
+			"question",
+			"add",
+			"id",
+			"donetutoring",
+			"donetuto",
+			"finish",
+			"tutorstudent",
+			"new",
+			"startTutoring",
+			"find",
+			"gettutorfrom",
+			"displayque",
+			"displayqu",
+			"display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "custom-gestures/Myo-Gesture-master/Myo-Gesture-master/gesturedevicelistener.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4633,
+								4633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 6.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "myo-sdk-win-0.9.0/Myo-Gesture-master/bin/Debug/processed/DTWModel.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 19605.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 448.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/test1.sublime-build",
+	"project": "myo.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
