@@ -1,6 +1,8 @@
-1 hello
-2 hey
-3 nice
-4 sorry
-5 toMeet
-6 whatsup
+1 greetings
+2 hello
+3 helloo
+4 hey
+5 nice
+6 sorry
+7 toMeet
+8 whatsup
