@@ -3,10 +3,35 @@
 var fs = require('fs');  // file system
 var wstream = fs.createWriteStream('output.txt');
 
+
+var first = ''
+var second = ''
+
+var toSpeak = ''
+
+
 var spawn = require('child_process').spawn;
 var proc = spawn('GestureMyo.exe');
 proc.stdout.on('data', function(data) {
-  process.stdout.write(data);
+  
+  second = first
+  first = data.toString().split(" ")[1];
+
+  if(first!=second)
+  {
+    toSpeak = first;
+  var spawn = require('child_process').spawn;
+  var voice = spawn('python', ['TTSProgram.py',toSpeak])
+
+process.stdout.write(data + " in IF\n");
+  
+
+  }
+
+  process.stdout.write(data + " is the data\n");
+  process.stdout.write(first + " is first\n");
+  process.stdout.write(second + " is second\n");
+  
   wstream.write(data.toString());
 
 
@@ -34,17 +59,17 @@ if (process.platform === "win32") {
   });
 }
 
-var spawn = require('child_process').spawn;
+/*var spawn = require('child_process').spawn;
   var clearData = spawn('node', ['clearData.js']);
 
   var spawn = require('child_process').spawn;
   var voice = spawn('python', ['TTSProgram.py'])
-
+*/
 
 process.on("SIGINT", function () {
   //graceful shutdown
   console.log("SIGINT END")
-  
+     process.exit();
 
 
 /*clearData.stdout.on('data', function(data){
